@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: PMRR - Niterói
+description: Plano Municipal de Redução de Riscos
+img: assets/img/pmrr_logo.jpeg
 importance: 1
-category: work
+category: Desastres
 related_publications: true
 ---
 

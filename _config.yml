@@ -7,7 +7,7 @@ first_name: GRAPHID
 middle_name: 
 last_name: 
 contact_note: >
-  email: graphid.ter.tce@id.uff.br
+email: "graphid.ter.tce@id.uff.br"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Grupo de Análises e Pesquisas em Hidrologia e Desastres.
 footer_text: >
@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: research group, hydrology, disasters, pesquisa, UFF # add your own keywords or leave empty
 lang: pt # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🌨 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🦡 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://graphid-uff.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -48,7 +48,7 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: False
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -93,7 +93,7 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: False
 
 related_blog_posts:
   enabled: true

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projetos
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Desastres, Hidrologia]
 horizontal: false
 ---
 
