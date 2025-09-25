@@ -64,6 +64,14 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Projetos  -->
+    {% if page.projects %}
+      <h2>
+        <a href="{{ '/projects/pmrr/' | relative_url }}" style="color: inherit">Resultados do PMRR</a>
+      </h2>
+
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">

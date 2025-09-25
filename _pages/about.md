@@ -20,11 +20,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: False
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
+projects:
+  enabled: true
+  scrollable: true # se quiser com barra lateral
+  limit: 5         # número máximo de projetos mostrados
+
 ---
-
-
-
