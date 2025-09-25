@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "Blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-projetos",
+  },{id: "nav-projetos",
           title: "Projetos",
           description: "",
           section: "Navigation",
@@ -413,12 +406,12 @@ ninja.data = [{
           title: 'PMRR - Niterói',
           description: "Plano Municipal de Redução de Riscos",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/PMRR/";
             },},{id: "projects-salad",
           title: 'SALAD',
           description: "Sistema de ALerta Antecipado para Deslizamentos",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/SALAD/";
             },},{
         id: 'social-email',
         title: 'email',
