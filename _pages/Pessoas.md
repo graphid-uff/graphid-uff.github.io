@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: Equipe
 description: Membros do grupo de pesquisa
-nav: true
+nav: False
 nav_order: 7
 
 profiles:
