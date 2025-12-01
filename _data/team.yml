@@ -16,6 +16,17 @@
   # scholar: ""
   importance: 2
 
+
+- name: "Dra. Aimée Guida"
+  role: "Pesquisadora"
+  institution: ""
+  img: "/assets/img/team/aimee.jpg"
+  # email: ""
+  # lattes: ""
+  # scholar: ""
+  importance: 3
+
+
 - name: "Msc. Danúbia Teixeira Silva"
   role: "Doutoranda"
   institution: ""
@@ -26,14 +37,6 @@
   importance: 4
 
 
-- name: "Dra. Aimée Guida"
-  role: "Pesquisadora"
-  institution: ""
-  img: "/assets/img/team/aimee.jpg"
-  # email: ""
-  # lattes: ""
-  # scholar: ""
-  importance: 3
 
 
 - name: "Artur Cereto"
