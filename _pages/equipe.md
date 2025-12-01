@@ -15,7 +15,7 @@ horizontal: false
       <div class="col mb-4">
         <div class="card h-100">
           {% if member.img %}
-          <img src="{{ member.img | relative_url }}" class="card-img-top" alt="{{ member.name }}">
+          <img src="{{ member.img | relative_url }}" class="card-img-top team-photo" alt="{{ member.name }}">
           {% endif %}
 
           <div class="card-body">
