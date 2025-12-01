@@ -16,6 +16,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-equipe",
+          title: "Equipe",
+          description: "Membros do GRAPHID",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/equipe/";
+          },
+        },{id: "nav-ferramentas",
+          title: "Ferramentas",
+          description: "Ferramentas desenvolvidas e mantidas pelo GRAPHID.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/ferramentas/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
