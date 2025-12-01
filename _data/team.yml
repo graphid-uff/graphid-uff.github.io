@@ -1,0 +1,102 @@
+- name: "Dra. Franciele Zanandrea"
+  role: "Professora"
+  institution: ""
+  img: "/assets/img/team/Fran.jpg"
+  # email: ""
+  # lattes: ""
+  # scholar: ""
+  importance: 1
+
+- name: "Dr. Gean P. Michel"
+  role: "Professor"
+  institution: ""
+  img: "/assets/img/team/Gean.jpg"
+  # email: ""
+  # lattes: ""
+  # scholar: ""
+  importance: 2
+
+- name: "Msc. Danúbia Teixeira Silva"
+  role: "Doutoranda"
+  institution: ""
+  img: "/assets/img/team/Danubia.png"
+  # email: ""
+  # lattes: ""
+  # scholar: ""
+  importance: 4
+
+
+- name: "Dra. Aimée Guida"
+  role: "Pesquisadora"
+  institution: ""
+  img: "/assets/img/team/aimee.jpg"
+  # email: ""
+  # lattes: ""
+  # scholar: ""
+  importance: 3
+
+
+- name: "Artur Cereto"
+  role: "Mestrando"
+  institution: ""
+  img: "/assets/img/team/artur.jpg"
+  # email: ""
+  # lattes: ""
+  # scholar: ""
+  importance: 5
+
+
+- name: "Rodrigo Loureiro"
+  role: "Mestrando"
+  institution: ""
+  img: "/assets/img/team/rodrigo.jpg"
+  # email: ""
+  # lattes: ""
+  # scholar: ""
+  importance: 6
+
+
+- name: "André Pimentel"
+  role: "Mestrando"
+  institution: ""
+  img: "/assets/img/team/Andre.jpg"
+  # email: ""
+  # lattes: ""
+  # scholar: ""
+  importance: 7
+
+
+- name: "Clara Cardoso"
+  role: "Graduanda"
+  institution: ""
+  img: "/assets/img/team/Clara.jpg"
+  # email: ""
+  # lattes: ""
+  # scholar: ""
+  importance: 8
+
+
+- name: "Isadora Thys"
+  role: "Graduanda"
+  institution: ""
+  img: "/assets/img/team/isa.jpg"
+  # email: ""
+  # lattes: ""
+  # scholar: ""
+  importance: 9
+
+- name: "Mariana Carvalheda"
+  role: "Graduanda"
+  institution: ""
+  img: "/assets/img/team/mariana.jpg"
+  # email: ""
+  # lattes: ""
+  # scholar: ""
+  importance: 11
+
+# - name: "Beltrano Pereira"
+#   role: "Doutorando"
+#   institution: "Universidade Z"
+#   img: "/assets/img/team/beltrano.jpg"
+#   email: "beltrano@exemplo.com"
+#   importance: 3
