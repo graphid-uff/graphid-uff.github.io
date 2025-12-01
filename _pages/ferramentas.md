@@ -24,7 +24,7 @@ horizontal: false
         Calcula o Índice de Conectividade Hidrossedimentológica - IHC (Zanandrea et al. 2021) sem a necessidade do uso de SIGs.
       </p>
       <img
-        src="https://gh-card.dev/repos/artur-cereto/IHC.svg"
+        src="https://gh-card.dev/repos/graphid-uff/IHC.svg"
         alt="GitHub card ferramenta 1"
         class="img-fluid"
       >
