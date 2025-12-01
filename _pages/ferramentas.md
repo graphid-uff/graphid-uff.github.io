@@ -16,7 +16,7 @@ horizontal: false
   <div class="col-md-6 my-3">
     <div class="card h-100 p-3">
       <h3 class="card-title">
-        <a href="github.com/graphid-uff/IHC" target="_blank">
+        <a href="http://github.com/graphid-uff/IHC" target="_blank">
           IHC Calculator
         </a>
       </h3>
