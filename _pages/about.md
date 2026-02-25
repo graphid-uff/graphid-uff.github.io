@@ -30,7 +30,13 @@ projects:
   limit: 5         # número máximo de projetos mostrados
 
 ---
-O GRAPHID (**Gr**upo de **A**nálises e **P**esquisas em **Hi**drologia e **D**esastres) é um grupo de pesquisa interdisciplinar vinculado à Universidade Federal Fluminense (UFF) dedicado ao estudo dos processos hidrológicos e à análise dos eventos extremos deflagradores de desastres. O grupo reúne professores, pesquisadores de pós doutorado, doutorado e mestrado, bem como alunos de graduação. Suas atividades incluem o monitoramento e modelagem de processos hidrossedimentologicos, bem como sua interação e aplicação com a sociedade. O GRAPHID mantém parcerias com instituições nacionais e internacionais, promovendo o avanço científico e contribuindo para a mitigação de riscos e a adaptação às mudanças climáticas.
+O GRAPHID – Grupo de Análises e Pesquisas em Hidrologia e Desastres – é o grupo de pesquisa em Hidrologia da Universidade Federal Fluminense (UFF), sediado em Niterói (RJ). O grupo atua no estudo dos processos hidrológicos, conectividade hidrossedimentológica, desastres e modelagem aplicada a bacias hidrográficas.
+
+## Hidrologia na Universidade Federal Fluminense (UFF)
+
+No âmbito da UFF, o GRAPHID desenvolve pesquisas voltadas à compreensão da dinâmica hidrológica e dos eventos extremos associados a desastres. As atividades incluem monitoramento hidrológico, modelagem de processos hidrossedimentológicos, análise de conectividade em bacias hidrográficas e suas interações com a sociedade.
+
+O grupo reúne professores, pesquisadores de pós-doutorado, doutorado e mestrado, além de estudantes de graduação, promovendo formação acadêmica e produção científica em Hidrologia na UFF. Mantemos parcerias com instituições nacionais e internacionais, contribuindo para o avanço científico e para a mitigação de riscos e adaptação às mudanças climáticas no Brasil.
 
 
 
