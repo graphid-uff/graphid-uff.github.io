@@ -9,7 +9,7 @@ last_name:
 contact_note: >
 email: "graphid.ter.tce@id.uff.br"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  "Grupo de Análise e Pesquisas em Hidrologia e Desastres (GRAPHID) da Universidade Federal Fluminense (UFF). Desenvolvemos pesquisas em hidrologia, conectividade hidrossedimentológica, desastres e modelagem no Brasil."
+  "Grupo de Análises e Pesquisas em Hidrologia e Desastres (GRAPHID) da Universidade Federal Fluminense (UFF). Desenvolvemos pesquisas em hidrologia, conectividade hidrossedimentológica, desastres e modelagem no Brasil."
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
