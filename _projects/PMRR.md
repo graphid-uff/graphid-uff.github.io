@@ -19,7 +19,7 @@ A participação ativa da comunidade, trazendo suas percepções e colaboraçõe
 
 O PMRR é desenvolvido pelo grupo de pesquisa GRAPHID-UFF, em colaboração com a Prefeitura Municipal de Niterói e financiado pelo governo federal por meio da Secretaria Nacional de Periferias (MCID).
 
-É possível acessar os resultados do PMRR <a href=https://www.gov.br/cidades/pt-br/acesso-a-informacao/convenios-e-transferencias/repasses-e-transferencias-de-recursos-financeiros/acordos/acordos-de-adesao-municipios-pmrr/acordos-de-adesao-municipios-pmrr">**clicando aqui**.</a>
+É possível acessar os resultados do PMRR <a href="https://www.gov.br/cidades/pt-br/acesso-a-informacao/convenios-e-transferencias/repasses-e-transferencias-de-recursos-financeiros/acordos/acordos-de-adesao-municipios-pmrr/acordos-de-adesao-municipios-pmrr">**clicando aqui**.</a>
 
  
 <div class="row">
