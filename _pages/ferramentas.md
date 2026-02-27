@@ -43,7 +43,7 @@ horizontal: false
         Mapeamento de Perigo e Risco derivado do Plano Municipal de Redução de Risco de Áreas Prioritárias de Niterói/RJ .
       </p>
       <img
-        src="https://gh-card.dev/repos/graphid-uff/IHC.svg"
+        src=""/assets/img/team/pmrr.jpeg""
         alt="GitHub card ferramenta 1"
         class="img-fluid"
       >
