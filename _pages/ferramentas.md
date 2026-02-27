@@ -42,9 +42,7 @@ horizontal: false
       <p class="card-text">
         Mapeamento de Perigo e Risco derivado do Plano Municipal de Redução de Riscos de Áreas Prioritárias de Niterói/RJ .
       </p>
-      <img
-         {% include figure.liquid loading="eager" path="assets/img/pmrr.jpg" title="example image" class="img-fluid rounded z-depth-1" %}    
-      >
+         {% include figure.liquid loading="eager" path="assets/img/pmrr.jpg" title="example image" class="img-fluid rounded z-depth-1" %}          
     </div>
   </div>
   <!-- Você pode copiar/colar mais blocos de col-md-6 para outras ferramentas -->
