@@ -31,6 +31,24 @@ horizontal: false
     </div>
   </div>
 
+ <!-- Card 2 -->
+  <div class="col-md-6 my-3">
+    <div class="card h-100 p-3">
+      <h3 class="card-title">
+        <a href="https://pmrr-niteroi.projects.earthengine.app/view/mapeamentorisco" target="_blank">
+          Mapeamento de Perigo e Risco de Niterói/RJ
+        </a>
+      </h3>
+      <p class="card-text">
+        Mapeamento de Perigo e Risco derivado do Plano Municipal de Redução de Risco de Áreas Prioritárias de Niterói/RJ .
+      </p>
+      <img
+        src="https://gh-card.dev/repos/graphid-uff/IHC.svg"
+        alt="GitHub card ferramenta 1"
+        class="img-fluid"
+      >
+    </div>
+  </div>
   <!-- Você pode copiar/colar mais blocos de col-md-6 para outras ferramentas -->
 
 </div>
