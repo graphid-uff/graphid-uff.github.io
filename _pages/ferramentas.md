@@ -40,7 +40,7 @@ horizontal: false
         </a>
       </h3>
       <p class="card-text">
-        Mapeamento de Perigo e Risco derivado do Plano Municipal de Redução de Risco de Áreas Prioritárias de Niterói/RJ .
+        Mapeamento de Perigo e Risco derivado do Plano Municipal de Redução de Riscos de Áreas Prioritárias de Niterói/RJ .
       </p>
       <img
         src=""/assets/img/team/pmrr.jpeg""
