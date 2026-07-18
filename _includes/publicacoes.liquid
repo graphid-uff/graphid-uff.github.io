@@ -1,0 +1,20 @@
+<div class="col">
+  <a href="{{ publicacao.url | relative_url }}">
+    <div class="card h-100 hoverable">
+      {% if publicacao.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=publicacao.img
+          sizes = "250px"
+          alt="publication thumbnail"
+          class="card-img-top"
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h2 class="card-title">{{ publicacao.title }}</h2>
+        <p class="card-text">{{ publicacao.description }}</p>
+      </div>
+    </div>
+  </a>
+</div>

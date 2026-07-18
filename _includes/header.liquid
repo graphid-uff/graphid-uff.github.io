@@ -125,6 +125,12 @@
               </button>
             </li>
           {% endif %}
+          <!-- Language toggle -->
+          <li class="nav-item">
+            <button id="lang-toggle-btn" title="Switch language / Mudar idioma" onclick="toggleSiteLang()">
+              <span class="nav-link" id="lang-toggle-label">EN</span>
+            </button>
+          </li>
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
             <li class="toggle-container">

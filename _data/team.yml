@@ -1,18 +1,22 @@
 - name: "Dra. Franciele Zanandrea"
   role: "Professora Pesquisadora"
   institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
   img: "/assets/img/team/Fran_rec.jpeg"
   # email: ""
-  # lattes: ""
+  lattes: "#"
+  orcid: "#"
   # scholar: ""
   importance: 1
 
 - name: "Dr. Gean P. Michel"
   role: "Professor Pesquisador"
   institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
   img: "/assets/img/team/Gean_rec.jpeg"
   # email: ""
-  # lattes: ""
+  lattes: "#"
+  orcid: "#"
   # scholar: ""
   importance: 2
 
@@ -20,9 +24,11 @@
 - name: "Dra. Aimée Guida"
   role: "Pesquisadora"
   institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
   img: "/assets/img/team/aimee.jpeg"
   # email: ""
-  # lattes: ""
+  lattes: "#"
+  orcid: "#"
   # scholar: ""
   importance: 3
 
@@ -30,9 +36,11 @@
 - name: "Msc. Danúbia Teixeira Silva"
   role: "Doutoranda"
   institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
   img: "/assets/img/team/danubia.jpeg"
   # email: ""
-  # lattes: ""
+  lattes: "#"
+  orcid: "#"
   # scholar: ""
   importance: 4
 
@@ -42,9 +50,11 @@
 - name: "Artur Cereto"
   role: "Mestrando"
   institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
   img: "/assets/img/team/artur.jpg"
   # email: ""
-  # lattes: ""
+  lattes: "#"
+  orcid: "#"
   # scholar: ""
   importance: 5
 
@@ -52,9 +62,11 @@
 - name: "Rodrigo Loureiro"
   role: "Mestrando"
   institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
   img: "/assets/img/team/rodrigo.jpg"
   # email: ""
-  # lattes: ""
+  lattes: "#"
+  orcid: "#"
   # scholar: ""
   importance: 6
 
@@ -62,9 +74,11 @@
 - name: "André Pimentel"
   role: "Mestrando"
   institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
   img: "/assets/img/team/Andre.jpg"
   # email: ""
-  # lattes: ""
+  lattes: "#"
+  orcid: "#"
   # scholar: ""
   importance: 7
 
@@ -72,9 +86,11 @@
 - name: "Clara Cardoso"
   role: "Graduanda"
   institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
   img: "/assets/img/team/Clara.jpg"
   # email: ""
-  # lattes: ""
+  lattes: "#"
+  orcid: "#"
   # scholar: ""
   importance: 8
 
@@ -82,20 +98,134 @@
 - name: "Isadora Thys"
   role: "Graduanda"
   institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
   img: "/assets/img/team/isa.jpg"
   # email: ""
-  # lattes: ""
+  lattes: "#"
+  orcid: "#"
   # scholar: ""
   importance: 9
 
 - name: "Mariana Carvalheda"
   role: "Graduanda"
   institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
   img: "/assets/img/team/mariana.jpg"
   # email: ""
-  # lattes: ""
+  lattes: "#"
+  orcid: "#"
   # scholar: ""
   importance: 11
+
+- name: "Dr. Pedro Lima"
+  role: "Pesquisador Colaborador"
+  institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
+  img: "/assets/img/team/pedro.jpg"
+  # email: ""
+  lattes: "#"
+  orcid: "#"
+  # scholar: ""
+  importance: 17
+
+- name: "Caroline Sobrenome"
+  role: "Doutoranda"
+  institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
+  img: "/assets/img/team/user.jpg"
+  # email: ""
+  lattes: "#"
+  orcid: "#"
+  # scholar: ""
+  importance: 18
+
+- name: "Silvana Sobrenome"
+  role: "Graduanda (TCC)"
+  institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
+  img: "/assets/img/team/user.jpg"
+  # email: ""
+  lattes: "#"
+  orcid: "#"
+  # scholar: ""
+  importance: 19
+
+- name: "Giovanna Sobrenome"
+  role: "Graduanda (TCC)"
+  institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
+  img: "/assets/img/team/user.jpg"
+  # email: ""
+  lattes: "#"
+  orcid: "#"
+  # scholar: ""
+  importance: 20
+
+- name: "Ian Sobrenome"
+  role: "Mestrando"
+  institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
+  img: "/assets/img/team/user.jpg"
+  # email: ""
+  lattes: "#"
+  orcid: "#"
+  # scholar: ""
+  importance: 21
+
+- name: "Mariana T. Sobrenome"
+  role: "Graduanda (TCC)"
+  institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
+  img: "/assets/img/team/user.jpg"
+  # email: ""
+  lattes: "#"
+  orcid: "#"
+  # scholar: ""
+  importance: 22
+
+- name: "Brian Sobrenome"
+  role: "Mestrando"
+  institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
+  img: "/assets/img/team/user.jpg"
+  # email: ""
+  lattes: "#"
+  orcid: "#"
+  # scholar: ""
+  importance: 23
+
+- name: "Nestor Sobrenome"
+  role: "Mestrando"
+  institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
+  img: "/assets/img/team/user.jpg"
+  # email: ""
+  lattes: "#"
+  orcid: "#"
+  # scholar: ""
+  importance: 24
+
+- name: "Vicente Sobrenome"
+  role: "Mestrando"
+  institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
+  img: "/assets/img/team/user.jpg"
+  # email: ""
+  lattes: "#"
+  orcid: "#"
+  # scholar: ""
+  importance: 25
+
+- name: "Leandro Sobrenome"
+  role: "Mestrando"
+  institution: ""
+  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
+  img: "/assets/img/team/user.jpg"
+  # email: ""
+  lattes: "#"
+  orcid: "#"
+  # scholar: ""
+  importance: 26
 
 # - name: "Beltrano Pereira"
 #   role: "Doutorando"

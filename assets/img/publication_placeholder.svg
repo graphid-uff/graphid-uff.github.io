@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Publicação (placeholder)">
+  <rect width="400" height="260" fill="#eef2f5"/>
+  <g transform="translate(150,40)">
+    <path d="M10 0 H80 L110 30 V180 H10 Z" fill="#ffffff" stroke="#9aa7b0" stroke-width="3"/>
+    <path d="M80 0 L80 30 L110 30 Z" fill="#dbe2e6" stroke="#9aa7b0" stroke-width="3" stroke-linejoin="round"/>
+    <line x1="28" y1="60" x2="92" y2="60" stroke="#9aa7b0" stroke-width="4" stroke-linecap="round"/>
+    <line x1="28" y1="80" x2="92" y2="80" stroke="#9aa7b0" stroke-width="4" stroke-linecap="round"/>
+    <line x1="28" y1="100" x2="92" y2="100" stroke="#9aa7b0" stroke-width="4" stroke-linecap="round"/>
+    <line x1="28" y1="120" x2="70" y2="120" stroke="#9aa7b0" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="200" y="235" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6b7a84">Exemplo de publicação</text>
+</svg>
