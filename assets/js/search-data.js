@@ -16,6 +16,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-linhas-de-pesquisa",
+          title: "Linhas de Pesquisa",
+          description: "Áreas e linhas de pesquisa do GRAPHID.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/linhas-pesquisa/";
+          },
+        },{id: "nav-publicações-recentes",
+          title: "Publicações Recentes",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publicacoes/";
+          },
         },{id: "nav-equipe",
           title: "Equipe",
           description: "Membros do GRAPHID",
@@ -414,11 +428,31 @@ ninja.data = [{
           description: "Plano Municipal de Redução de Riscos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PMRR/";
+            },},{id: "projects-rioslide",
+          title: 'RioSlide',
+          description: "Ambiente colaborativo de dados abertos para modelagem de deslizamentos",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RioSlide/";
             },},{id: "projects-salad",
           title: 'SALAD',
           description: "Sistema de ALerta Antecipado para Deslizamentos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/SALAD/";
+            },},{id: "publicacoes-exemplo-publicação-2",
+          title: '[EXEMPLO] Publicação 2',
+          description: "Placeholder de publicação recente — substitua pelo título, imagem e PDF reais.",
+          section: "Publicacoes",handler: () => {
+              window.location.href = "/publicacoes/exemplo-2/";
+            },},{id: "publicacoes-exemplo-publicação-3",
+          title: '[EXEMPLO] Publicação 3',
+          description: "Placeholder de publicação recente — substitua pelo título, imagem e PDF reais.",
+          section: "Publicacoes",handler: () => {
+              window.location.href = "/publicacoes/exemplo-3/";
+            },},{id: "publicacoes-os-desafios-da-gestão-de-risco-a-movimentos-de-massa-em-periferias-brasileiras-proposição-de-método-para-hierarquização-de-áreas-a-serem-analisadas-no-plano-municipal-de-redução-de-risco-de-niterói-rj",
+          title: 'Os desafios da gestão de risco a movimentos de massa em periferias brasileiras:...',
+          description: "Proposição de método para hierarquização de áreas a serem analisadas no Plano Municipal de Redução de Risco de Niterói, RJ — RBRH, 2025.",
+          section: "Publicacoes",handler: () => {
+              window.location.href = "/publicacoes/rbrh-niteroi-2025/";
             },},{
         id: 'social-email',
         title: 'email',
