@@ -151,8 +151,6 @@ collections:
     output: true
   projects:
     output: true
-  publicacoes:
-    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

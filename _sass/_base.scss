@@ -384,8 +384,7 @@ ul.task-list input[type="checkbox"] {
 }
 
 #light-toggle,
-#search-toggle,
-#lang-toggle-btn {
+#search-toggle {
   padding: 0;
   border: 0;
   background-color: inherit;
@@ -393,25 +392,6 @@ ul.task-list input[type="checkbox"] {
 
   &:hover {
     color: var(--global-hover-color);
-  }
-}
-
-// Language toggle (PT/EN)
-// Default document state (no data-lang yet, or data-lang="pt") shows .lang-pt and hides .lang-en.
-// [hidden] is the native attribute used as the default state for .lang-en so content stays
-// correctly hidden even without CSS/JS; "display: revert" un-hides it while keeping the
-// element's normal display type (block, inline, list-item, etc.) instead of forcing one.
-.lang-en[hidden] {
-  display: none;
-}
-
-:root[data-lang="en"] {
-  .lang-pt {
-    display: none;
-  }
-
-  .lang-en[hidden] {
-    display: revert;
   }
 }
 
@@ -510,15 +490,6 @@ footer.fixed-bottom {
       color: var(--global-theme-color);
       text-decoration: none;
     }
-  }
-}
-
-.footer-social {
-  margin-left: 0.5rem;
-
-  i {
-    font-size: 1.1rem;
-    vertical-align: middle;
   }
 }
 
