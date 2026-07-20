@@ -493,7 +493,7 @@ ul.task-list input[type="checkbox"] {
 
 // Footer
 footer.fixed-bottom {
-  background-color: #fff;
+  background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
 
   .container {
@@ -511,30 +511,13 @@ footer.fixed-bottom {
       text-decoration: none;
     }
   }
-
-  .footer-social a {
-    color: #000;
-
-    &:hover {
-      color: #000;
-    }
-  }
 }
 
 .footer-social {
   margin-left: 0.5rem;
-  display: inline-flex;
-  align-items: center;
-  gap: 1.5rem;
 
   i {
     font-size: 1.1rem;
-    vertical-align: middle;
-  }
-
-  .footer-uff-logo {
-    height: 1.1rem;
-    width: auto;
     vertical-align: middle;
   }
 }
