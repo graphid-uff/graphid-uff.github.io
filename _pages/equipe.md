@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Equipe
+title_en: Team
 permalink: /equipe/
 description: Membros do GRAPHID
+description_en: GRAPHID members
 nav: true
 nav_order: 5
 horizontal: false

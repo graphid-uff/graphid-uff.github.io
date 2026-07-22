@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projetos
+title_en: Projects
 permalink: /projects/
 description:
 nav: true
@@ -15,7 +16,13 @@ horizontal: false
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
+    <h2 class="category">
+      {% if category == "Desastres" %}
+        <span class="lang-pt">Desastres</span><span class="lang-en" hidden>Disasters</span>
+      {% else %}
+        {{ category }}
+      {% endif %}
+    </h2>
   </a>
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}

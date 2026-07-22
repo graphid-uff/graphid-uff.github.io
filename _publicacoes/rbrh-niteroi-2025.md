@@ -1,8 +1,11 @@
 ---
 layout: page
 title: "Os desafios da gestão de risco a movimentos de massa em periferias brasileiras: proposição de método para hierarquização de áreas a serem analisadas no Plano Municipal de Redução de Risco de Niterói, RJ"
-description: Proposição de método para hierarquização de áreas a serem analisadas no Plano Municipal de Redução de Risco de Niterói, RJ — RBRH, 2025.
+title_en: "The challenges of landslide risk management in Brazilian peripheries: proposing a method for prioritizing areas for analysis in Niterói's Municipal Risk Reduction Plan"
+description: "Franciele Zanandrea, Gean Paulo Michel, Aimée Guida, Ivanovich Lache Salcedo, Danúbia Teixeira Silva, Camila Athanázio de Azevedo, Lucas da Silva Santos, Isadora Tschiedel Thys, Vanessa Caldas Cardoso — <em>Revista Brasileira de Recursos Hídricos (RBRH)</em>, 2025."
+description_en: "Franciele Zanandrea, Gean Paulo Michel, Aimée Guida, Ivanovich Lache Salcedo, Danúbia Teixeira Silva, Camila Athanázio de Azevedo, Lucas da Silva Santos, Isadora Tschiedel Thys, Vanessa Caldas Cardoso — <em>Brazilian Journal of Water Resources (RBRH)</em>, 2025."
 img: assets/img/publicacoes/RBRH_Niteroi_2025.png
+year: 2025
 importance: 1
 related_publications: true
 published: true

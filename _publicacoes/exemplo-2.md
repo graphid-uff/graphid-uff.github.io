@@ -1,8 +1,11 @@
 ---
 layout: page
 title: "[EXEMPLO] Publicação 2"
+title_en: "[SAMPLE] Publication 2"
 description: Placeholder de publicação recente — substitua pelo título, imagem e PDF reais.
+description_en: Placeholder for a recent publication — replace with the real title, image and PDF.
 img: assets/img/publication_placeholder.svg
+year: 2026
 importance: 2
 related_publications: true
 published: true

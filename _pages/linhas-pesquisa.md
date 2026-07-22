@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Linhas de Pesquisa
+title_en: Research Lines
 permalink: /linhas-pesquisa/
 description: Áreas e linhas de pesquisa do GRAPHID.
+description_en: GRAPHID's research areas and lines.
 nav: true
 nav_order: 3.5
 horizontal: false
@@ -24,7 +26,7 @@ horizontal: false
             {% endif %}
             {% if line.members %}
               <p class="card-text">
-                <strong>Pesquisadores:</strong><br>
+                <strong><span class="lang-pt">Pesquisadores:</span><span class="lang-en" hidden>Researchers:</span></strong><br>
                 {% for member in line.members %}
                   {% assign member_html = member.name | replace: "Sobrenome", '<span class="text-danger">Sobrenome</span>' %}
                   {% if member.link and member.link != "" %}
