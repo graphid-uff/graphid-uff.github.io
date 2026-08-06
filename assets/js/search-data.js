@@ -16,6 +16,27 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-linhas-de-pesquisa",
+          title: "Linhas de Pesquisa",
+          description: "Áreas e linhas de pesquisa do GRAPHID.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/linhas-pesquisa/";
+          },
+        },{id: "nav-publicações-recentes",
+          title: "Publicações Recentes",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publicacoes/";
+          },
+        },{id: "nav-livros",
+          title: "Livros",
+          description: "Livros publicados por membros do GRAPHID.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/livros/";
+          },
         },{id: "nav-equipe",
           title: "Equipe",
           description: "Membros do GRAPHID",
@@ -398,6 +419,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "livros-desastres-e-água-eventos-históricos-no-brasil",
+          title: 'Desastres e água: eventos históricos no Brasil',
+          description: "Franciele Zanandrea [et al.] (Orgs). 1. ed. Porto Alegre, RS: ABRHidro, 2023.",
+          section: "Livros",handler: () => {
+              window.location.href = "/livros/desastres-e-agua-2023/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -414,11 +440,71 @@ ninja.data = [{
           description: "Plano Municipal de Redução de Riscos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PMRR/";
+            },},{id: "projects-rioslide",
+          title: 'RioSlide',
+          description: "Ambiente colaborativo de dados abertos para modelagem de deslizamentos",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RioSlide/";
             },},{id: "projects-salad",
           title: 'SALAD',
           description: "Sistema de ALerta Antecipado para Deslizamentos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/SALAD/";
+            },},{id: "publicacoes-relevance-of-field-data-in-the-assessment-of-structural-and-functional-sediment-connectivity-in-a-small-catchment-of-southern-brazilian-plateau",
+          title: 'Relevance of field data in the assessment of structural and functional sediment connectivity...',
+          description: "Abatti et al. — Earth Surface Processes and Landforms, 2022.",
+          section: "Publicacoes",handler: () => {
+              window.location.href = "/publicacoes/abatti-connectivity-2022/";
+            },},{id: "publicacoes-the-influence-of-large-wood-on-sediment-routing-and-flow-characteristics-a-study-in-a-low-order-stream-in-the-southern-brazilian-plateau",
+          title: 'The influence of large wood on sediment routing and flow characteristics: A study...',
+          description: "Abatti et al. — Geomorphology, 2024.",
+          section: "Publicacoes",handler: () => {
+              window.location.href = "/publicacoes/abatti-largewood-2024/";
+            },},{id: "publicacoes-perceptions-of-large-wood-in-river-corridors-visual-cues-risk-and-management-expectations-in-brazil",
+          title: 'Perceptions of Large Wood in River Corridors: Visual Cues, Risk, and Management Expectations...',
+          description: "Abatti et al. — Environmental Management, 2026.",
+          section: "Publicacoes",handler: () => {
+              window.location.href = "/publicacoes/abatti-perceptions-2026/";
+            },},{id: "publicacoes-índice-de-erosividade-de-chuvas-para-o-estado-do-rio-de-janeiro-brasil",
+          title: 'Índice de erosividade de chuvas para o estado do Rio de Janeiro –...',
+          description: "Back et al. — GEOgraphia, 2025.",
+          section: "Publicacoes",handler: () => {
+              window.location.href = "/publicacoes/back-erosividade-2025/";
+            },},{id: "publicacoes-connectivity-and-mass-movements-an-underestimated-relationship",
+          title: 'Connectivity and mass movements: An underestimated relationship?',
+          description: "Lopes et al. — Journal of Mountain Science, 2026.",
+          section: "Publicacoes",handler: () => {
+              window.location.href = "/publicacoes/lopes-connectivity-2026/";
+            },},{id: "publicacoes-os-desafios-da-gestão-de-risco-a-movimentos-de-massa-em-periferias-brasileiras-proposição-de-método-para-hierarquização-de-áreas-a-serem-analisadas-no-plano-municipal-de-redução-de-risco-de-niterói-rj",
+          title: 'Os desafios da gestão de risco a movimentos de massa em periferias brasileiras:...',
+          description: "Franciele Zanandrea, Gean Paulo Michel, Aimée Guida, Ivanovich Lache Salcedo, Danúbia Teixeira Silva, Camila Athanázio de Azevedo, Lucas da Silva Santos, Isadora Tschiedel Thys, Vanessa Caldas Cardoso — Revista Brasileira de Recursos Hídricos (RBRH), 2025.",
+          section: "Publicacoes",handler: () => {
+              window.location.href = "/publicacoes/rbrh-niteroi-2025/";
+            },},{id: "publicacoes-uso-de-caracterização-morfométrica-e-geomorfológica-na-análise-de-mapeamentos-de-cicatrizes-de-escorregamentos",
+          title: 'Uso de caracterização morfométrica e geomorfológica na análise de mapeamentos de cicatrizes de...',
+          description: "Schwarz et al. — Revista Brasileira de Geomorfologia, 2023.",
+          section: "Publicacoes",handler: () => {
+              window.location.href = "/publicacoes/schwarz-morfometrica-2023/";
+            },},{id: "publicacoes-can-one-dimensional-infiltration-models-reproduce-soil-moisture-variations-in-landslide-prone-hillslopes-evidences-from-petrópolis-brazil",
+          title: 'Can one-dimensional infiltration models reproduce soil moisture variations in landslide-prone hillslopes? Evidences from...',
+          description: "Silva et al. — Soil Science Society of America Journal, 2026.",
+          section: "Publicacoes",handler: () => {
+              window.location.href = "/publicacoes/silva-petropolis-2026/";
+            },},{id: "publicacoes-conectividade-dos-sedimentos-conceitos-princípios-e-aplicações",
+          title: 'Conectividade dos sedimentos: conceitos, princípios e aplicações',
+          description: "Zanandrea et al. — Revista Brasileira de Geomorfologia, 2020.",
+          section: "Publicacoes",handler: () => {
+              window.location.href = "/publicacoes/zanandrea-conectividade-2020/";
+            },},{id: "publicacoes-impedance-influence-on-the-index-of-sediment-connectivity-in-a-forested-mountainous-catchment",
+          title: 'Impedance influence on the index of sediment connectivity in a forested mountainous catchment...',
+          description: "Zanandrea et al. — Geomorphology, 2020.",
+          section: "Publicacoes",handler: () => {
+              window.location.href = "/publicacoes/zanandrea-impedance-2020/";
+            },},{id: "publicacoes-spatial-temporal-assessment-of-water-and-sediment-connectivity-through-a-modified-connectivity-index-in-a-subtropical-mountainous-catchment",
+          title: 'Spatial-temporal assessment of water and sediment connectivity through a modified connectivity index in...',
+          description: "Zanandrea et al. — Catena, 2021.",
+          section: "Publicacoes",handler: () => {
+              window.location.href = "/publicacoes/zanandrea-spatiotemporal-2021/";
             },},{
         id: 'social-email',
         title: 'email',
