@@ -21,7 +21,7 @@ horizontal: false
           {% endif %}
 
           <div class="card-body">
-            <h5 class="card-title">{{ member.name | replace: "Sobrenome", '<span class="text-danger">Sobrenome</span>' }}</h5>
+            <h5 class="card-title">{{ member.name }}</h5>
             {% if member.role %}
               <p class="card-text"><strong>{{ member.role }}</strong></p>
             {% endif %}
@@ -49,6 +49,9 @@ horizontal: false
             {% endif %}
             {% if member.scholar %}
               <a href="{{ member.scholar }}" class="card-link" target="_blank">Scholar</a>
+            {% endif %}
+            {% if member.researchgate %}
+              <a href="{{ member.researchgate }}" class="card-link" target="_blank">ResearchGate</a>
             {% endif %}
           </div>
         </div>

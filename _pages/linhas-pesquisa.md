@@ -28,11 +28,10 @@ horizontal: false
               <p class="card-text">
                 <strong><span class="lang-pt">Pesquisadores:</span><span class="lang-en" hidden>Researchers:</span></strong><br>
                 {% for member in line.members %}
-                  {% assign member_html = member.name | replace: "Sobrenome", '<span class="text-danger">Sobrenome</span>' %}
                   {% if member.link and member.link != "" %}
-                    <a href="{{ member.link | relative_url }}">{{ member_html }}</a>
+                    <a href="{{ member.link | relative_url }}">{{ member.name }}</a>
                   {% else %}
-                    {{ member_html }}
+                    {{ member.name }}
                   {% endif %}
                   {% unless forloop.last %}&middot;{% endunless %}
                 {% endfor %}

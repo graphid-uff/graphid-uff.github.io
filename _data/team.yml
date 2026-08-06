@@ -1,235 +1,183 @@
 - name: "Dra. Franciele Zanandrea"
   role: "Professora Pesquisadora"
   institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
+  keywords: ["Hidrologia", "Conectividade hidrossedimentológica", "Monitoramento Hidrossedimentológico", "Hidrogeomorfologia", "Desastres"]
   img: "/assets/img/team/Fran_rec.jpeg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
+  # email: "francielez@id.uff.br"
+  lattes: "http://lattes.cnpq.br/3539795122211417"
+  orcid: "https://orcid.org/0000-0002-4797-1379"
+  researchgate: "https://www.researchgate.net/profile/Franciele-Zanandrea?ev=hdr_xprf"
   importance: 1
 
 - name: "Dr. Gean P. Michel"
   role: "Professor Pesquisador"
   institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
+  keywords: ["Desastres", "Deslizamentos", "Monitoramento Hidrossedimentológico", "Modelagem e análises geoespacial", "Hidrologia"]
   img: "/assets/img/team/Gean_rec.jpeg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
+  # email: "geanpmichel@gmail.com; geanmichel@id.uff.br"
+  lattes: "http://lattes.cnpq.br/3637693382752118"
+  orcid: "https://orcid.org/0000-0002-7857-1941"
+  researchgate: "https://www.researchgate.net/profile/Gean-Michel"
   importance: 2
-
-
-- name: "Dra. Aimée Guida"
-  role: "Pesquisadora"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/aimee.jpeg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 3
-
-
-- name: "Msc. Danúbia Teixeira Silva"
-  role: "Doutoranda"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/danubia.jpeg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 4
-
-
-
-
-- name: "Artur Cereto"
-  role: "Mestrando"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/artur.jpg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 5
-
-
-- name: "Rodrigo Loureiro"
-  role: "Mestrando"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/rodrigo.jpg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 6
-
-
-- name: "André Pimentel"
-  role: "Mestrando"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/Andre.jpg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 7
-
-
-- name: "Clara Cardoso"
-  role: "Graduanda"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/Clara.jpg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 8
-
-
-- name: "Isadora Thys"
-  role: "Graduanda"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/isa.jpg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 9
-
-- name: "Mariana Carvalheda"
-  role: "Graduanda"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/mariana.jpg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 11
 
 - name: "Dr. Pedro Lima"
   role: "Pesquisador Colaborador"
   institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
+  keywords: ["Deslizamentos", "Geotecnologia (SIG/geoprocessamento)", "Modelagem e análises geoespacial", "Redução de risco de desastres", "Suscetibilidade e exposição"]
   img: "/assets/img/team/pedro.jpg"
-  # email: ""
+  # email: "phmlima@id.uff.br"
   lattes: "http://lattes.cnpq.br/6849485246299952"
   orcid: "https://orcid.org/0000-0003-2429-3752"
-  # scholar: ""
-  importance: 17
+  researchgate: "https://www.researchgate.net/profile/Pedro-Lima-2"
+  importance: 3
 
-- name: "Caroline Sobrenome"
+- name: "Msc. Danúbia Teixeira Silva"
   role: "Doutoranda"
   institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/user.jpg"
-  # email: ""
+  keywords: ["Deslizamentos", "Modelagem e análises geoespacial", "Redução de risco de desastres", "Geotecnologia (SIG/geoprocessamento)", "Suscetibilidade e exposição"]
+  img: "/assets/img/team/danubia.jpeg"
+  # email: "danubia.teixeira@ifal.edu.br"
+  lattes: "http://lattes.cnpq.br/1322539920718246"
+  orcid: "https://orcid.org/0009-0003-7592-0901"
+  researchgate: "https://www.researchgate.net/profile/Danubia-Silva-4"
+  importance: 4
+
+- name: "Msc. Artur Nonato Vieira Cereto"
+  role: "Mestrando"
+  institution: ""
+  keywords: ["Desastres", "Deslizamentos", "Redução de risco de desastres", "Sistema de Alerta", "Hidrologia"]
+  img: "/assets/img/team/artur.jpg"
+  # email: "arturcereto@id.uff.br"
+  lattes: "http://lattes.cnpq.br/8597650818190409"
+  orcid: "https://orcid.org/0009-0007-6254-706X"
+  importance: 5
+
+- name: "Rodrigo Coutinho Loureiro Mansur"
+  role: "Mestrando"
+  institution: ""
+  keywords: ["Hidrologia", "Hidrogeomorfologia", "Geotecnologia (SIG/geoprocessamento)", "Conectividade hidrossedimentológica", "Deslizamentos"]
+  img: "/assets/img/team/rodrigo.jpg"
+  # email: "rodrigoloureiro@id.uff.br"
+  lattes: "https://lattes.cnpq.br/9898802239418041"
+  orcid: "https://orcid.org/0009-0009-2683-8729"
+  researchgate: "https://www.researchgate.net/profile/Rodrigo-Loureiro-5"
+  importance: 6
+
+- name: "André Pimentel"
+  role: "Mestrando"
+  institution: ""
+  img: "/assets/img/team/Andre.jpg"
+  # email: "andre.anjos@unesp.br"
   lattes: "#"
   orcid: "#"
-  # scholar: ""
+  importance: 7
+
+- name: "Clara Moreira Cardoso"
+  role: "Mestranda"
+  institution: ""
+  keywords: ["Desastres", "Deslizamentos", "Geotecnologia (SIG/geoprocessamento)"]
+  img: "/assets/img/team/Clara.jpg"
+  # email: "claramoreiracardoso@id.uff.br"
+  lattes: "http://lattes.cnpq.br/6976969537174621"
+  orcid: "#"
+  importance: 8
+
+- name: "Filipe Nogueira"
+  role: "Mestrando"
+  institution: ""
+  keywords: ["Hidrologia", "Modelagem Hidrológica", "Mudanças Climáticas", "Redução de risco de desastres", "Sistema de alerta"]
+  img: "/assets/img/team/user.jpg"
+  # email: "filipe.nogueira@id.uff.br"
+  lattes: "http://lattes.cnpq.br/5685187140995653"
+  orcid: "#"
+  importance: 9
+
+- name: "Silvana Cristina Paz do Couto"
+  role: "Mestranda"
+  institution: ""
+  keywords: ["Hidrologia", "Conectividade Hidrossedimentologica", "Monitoramento Hidrossedimentológico"]
+  img: "/assets/img/team/user.jpg"
+  # email: "silvanapaz@id.uff.br"
+  lattes: "http://lattes.cnpq.br/2288468500908224"
+  orcid: "#"
+  importance: 10
+
+- name: "Braian Salvador"
+  role: "Mestrando"
+  institution: ""
+  keywords: ["Desastres", "Deslizamentos", "Redução de risco de desastres"]
+  img: "/assets/img/team/user.jpg"
+  # email: "braiansalvador@id.uff.br"
+  lattes: "http://lattes.cnpq.br/7211454891724591"
+  orcid: "https://orcid.org/0009-0006-0514-3694"
+  researchgate: "https://www.researchgate.net/profile/Braian-Salvador?ev=hdr_xprf"
+  importance: 11
+
+- name: "Ian Botelho Motta"
+  role: "Mestrando"
+  institution: ""
+  img: "/assets/img/team/user.jpg"
+  # email: "ianbotelhomotta@id.uff.br"
+  lattes: "http://lattes.cnpq.br/0060717506424750"
+  orcid: "#"
+  importance: 12
+
+- name: "Nestor Antônio Bresolin Júnior"
+  role: "Mestrando"
+  institution: ""
+  keywords: ["Hidrologia", "Desastres", "Sistemas de Alerta", "Redução de risco de desastres"]
+  img: "/assets/img/team/user.jpg"
+  # email: "nbresolin@gmail.com"
+  lattes: "http://lattes.cnpq.br/4662053845978586"
+  orcid: "#"
+  importance: 13
+
+- name: "Mariana Carvalheda"
+  role: "Graduanda"
+  institution: ""
+  keywords: ["Hidrogeomorfologia", "Monitoramento Hidrossedimentológico", "Conectividade hidrossedimentológica"]
+  img: "/assets/img/team/mariana.jpg"
+  # email: "marianagermano@id.uff.br"
+  lattes: "https://lattes.cnpq.br/1520973427009627"
+  orcid: "https://orcid.org/0000-0003-2429-3752"
+  researchgate: "https://www.researchgate.net/profile/Mariana-Carvalheda?ev=hdr_xprf"
+  importance: 14
+
+- name: "Pedro Damas"
+  role: "Graduando"
+  institution: ""
+  keywords: ["Desastres"]
+  img: "/assets/img/team/pedro_damas.jpeg"
+  # email: "pedrodamas@id.uff.br"
+  lattes: "http://lattes.cnpq.br/8501249881313766"
+  orcid: "#"
+  importance: 15
+
+- name: "Millena Junger"
+  role: "Graduanda"
+  institution: ""
+  keywords: ["Hidrologia", "Modelagem Hidrológica"]
+  img: "/assets/img/team/Milena.jpeg"
+  # email: "millenamoraes@id.uff.br"
+  lattes: "http://lattes.cnpq.br/5475169285691299"
+  orcid: "#"
+  importance: 16
+
+- name: "Vivienne Rios de Sá Hoyer"
+  role: "Graduanda"
+  institution: ""
+  img: "/assets/img/team/user.jpg"
+  # email: "vihoyer@id.uff.br"
+  lattes: "http://lattes.cnpq.br/4931514729126020"
+  orcid: "https://orcid.org/0009-0001-0781-7967"
+  importance: 17
+
+- name: "Victor Tavares"
+  role: "Graduando"
+  institution: ""
+  keywords: ["Hidrologia", "Geotecnologia (SIG/geoprocessamento)"]
+  img: "/assets/img/team/user.jpg"
+  # email: "tavares_victor@id.uff.br"
+  lattes: "https://lattes.cnpq.br/6280967381553692"
+  orcid: "#"
   importance: 18
-
-- name: "Silvana Sobrenome"
-  role: "Graduanda (TCC)"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/user.jpg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 19
-
-- name: "Giovanna Sobrenome"
-  role: "Graduanda (TCC)"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/user.jpg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 20
-
-- name: "Ian Sobrenome"
-  role: "Mestrando"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/user.jpg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 21
-
-- name: "Mariana T. Sobrenome"
-  role: "Graduanda (TCC)"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/user.jpg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 22
-
-- name: "Brian Sobrenome"
-  role: "Mestrando"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/user.jpg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 23
-
-- name: "Nestor Sobrenome"
-  role: "Mestrando"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/user.jpg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 24
-
-- name: "Vicente Sobrenome"
-  role: "Mestrando"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/user.jpg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 25
-
-- name: "Leandro Sobrenome"
-  role: "Mestrando"
-  institution: ""
-  keywords: ["Keyword 1", "Keyword 2", "Keyword 3", "Keyword 4", "Keyword 5"]
-  img: "/assets/img/team/user.jpg"
-  # email: ""
-  lattes: "#"
-  orcid: "#"
-  # scholar: ""
-  importance: 26
-
-# - name: "Beltrano Pereira"
-#   role: "Doutorando"
-#   institution: "Universidade Z"
-#   img: "/assets/img/team/beltrano.jpg"
-#   email: "beltrano@exemplo.com"
-#   importance: 3
