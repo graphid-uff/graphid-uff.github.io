@@ -452,22 +452,22 @@ ninja.data = [{
               window.location.href = "/projects/SALAD/";
             },},{id: "publicacoes-relevance-of-field-data-in-the-assessment-of-structural-and-functional-sediment-connectivity-in-a-small-catchment-of-southern-brazilian-plateau",
           title: 'Relevance of field data in the assessment of structural and functional sediment connectivity...',
-          description: "Abatti et al. — Earth Surface Processes and Landforms, 2022.",
+          description: "Bruno Henrique Abatti, Franciele Zanandrea, Leonardo Rodolfo Paul, Gean Paulo Michel — Earth Surface Processes and Landforms, 2022.",
           section: "Publicacoes",handler: () => {
               window.location.href = "/publicacoes/abatti-connectivity-2022/";
             },},{id: "publicacoes-the-influence-of-large-wood-on-sediment-routing-and-flow-characteristics-a-study-in-a-low-order-stream-in-the-southern-brazilian-plateau",
           title: 'The influence of large wood on sediment routing and flow characteristics: A study...',
-          description: "Abatti et al. — Geomorphology, 2024.",
+          description: "Bruno Henrique Abatti, Gean Paulo Michel, Ronald Erwin Poeppl, Marina Refatti Fagundes, Leonardo Rodolfo Paul, Franciele Zanandrea — Geomorphology, 2024.",
           section: "Publicacoes",handler: () => {
               window.location.href = "/publicacoes/abatti-largewood-2024/";
             },},{id: "publicacoes-perceptions-of-large-wood-in-river-corridors-visual-cues-risk-and-management-expectations-in-brazil",
           title: 'Perceptions of Large Wood in River Corridors: Visual Cues, Risk, and Management Expectations...',
-          description: "Abatti et al. — Environmental Management, 2026.",
+          description: "Bruno Henrique Abatti, Marina Refatti Fagundes, Gean Paulo Michel, Ronald E. Poeppl, Franciele M. Vanelli, Franciele Zanandrea, Karla Campagnolo, Leonardo Rodolfo Paul, Masato Kobiyama — Environmental Management, 2026.",
           section: "Publicacoes",handler: () => {
               window.location.href = "/publicacoes/abatti-perceptions-2026/";
             },},{id: "publicacoes-índice-de-erosividade-de-chuvas-para-o-estado-do-rio-de-janeiro-brasil",
           title: 'Índice de erosividade de chuvas para o estado do Rio de Janeiro –...',
-          description: "Back et al. — GEOgraphia, 2025.",
+          description: "Álvaro José Back, Gabriel da Silva Souza, Sérgio Luciano Galatto, Franciele Zanandrea — GEOgraphia, 2025.",
           section: "Publicacoes",handler: () => {
               window.location.href = "/publicacoes/back-erosividade-2025/";
             },},{id: "publicacoes-connectivity-and-mass-movements-an-underestimated-relationship",
@@ -482,7 +482,7 @@ ninja.data = [{
               window.location.href = "/publicacoes/rbrh-niteroi-2025/";
             },},{id: "publicacoes-uso-de-caracterização-morfométrica-e-geomorfológica-na-análise-de-mapeamentos-de-cicatrizes-de-escorregamentos",
           title: 'Uso de caracterização morfométrica e geomorfológica na análise de mapeamentos de cicatrizes de...',
-          description: "Schwarz et al. — Revista Brasileira de Geomorfologia, 2023.",
+          description: "Heron Schwarz, Gean Paulo Michel, Franciele Zanandrea, Leonardo Rodolfo Paul, Clarissa Guerra Salvador — Revista Brasileira de Geomorfologia, 2023.",
           section: "Publicacoes",handler: () => {
               window.location.href = "/publicacoes/schwarz-morfometrica-2023/";
             },},{id: "publicacoes-can-one-dimensional-infiltration-models-reproduce-soil-moisture-variations-in-landslide-prone-hillslopes-evidences-from-petrópolis-brazil",
@@ -492,17 +492,17 @@ ninja.data = [{
               window.location.href = "/publicacoes/silva-petropolis-2026/";
             },},{id: "publicacoes-conectividade-dos-sedimentos-conceitos-princípios-e-aplicações",
           title: 'Conectividade dos sedimentos: conceitos, princípios e aplicações',
-          description: "Zanandrea et al. — Revista Brasileira de Geomorfologia, 2020.",
+          description: "Franciele Zanandrea, Leonardo Rodolfo Paul, Gean Paulo Michel, Masato Kobiyama, Aline da Silva Zanini, Bruno Henrique Abatti — Revista Brasileira de Geomorfologia, 2020.",
           section: "Publicacoes",handler: () => {
               window.location.href = "/publicacoes/zanandrea-conectividade-2020/";
             },},{id: "publicacoes-impedance-influence-on-the-index-of-sediment-connectivity-in-a-forested-mountainous-catchment",
           title: 'Impedance influence on the index of sediment connectivity in a forested mountainous catchment...',
-          description: "Zanandrea et al. — Geomorphology, 2020.",
+          description: "Franciele Zanandrea, Gean Paulo Michel, Masato Kobiyama — Geomorphology, 2020.",
           section: "Publicacoes",handler: () => {
               window.location.href = "/publicacoes/zanandrea-impedance-2020/";
             },},{id: "publicacoes-spatial-temporal-assessment-of-water-and-sediment-connectivity-through-a-modified-connectivity-index-in-a-subtropical-mountainous-catchment",
           title: 'Spatial-temporal assessment of water and sediment connectivity through a modified connectivity index in...',
-          description: "Zanandrea et al. — Catena, 2021.",
+          description: "Franciele Zanandrea, Gean Paulo Michel, Masato Kobiyama, Guilherme Censi, Bruno Henrique Abatti — Catena, 2021.",
           section: "Publicacoes",handler: () => {
               window.location.href = "/publicacoes/zanandrea-spatiotemporal-2021/";
             },},{
