@@ -3,6 +3,7 @@
   institution: ""
   keywords: ["Hidrologia", "Conectividade hidrossedimentológica", "Monitoramento Hidrossedimentológico", "Hidrogeomorfologia", "Desastres"]
   img: "/assets/img/team/Fran_rec.jpeg"
+  img_position: "center 38%"
   # email: "francielez@id.uff.br"
   lattes: "http://lattes.cnpq.br/3539795122211417"
   orcid: "https://orcid.org/0000-0002-4797-1379"
@@ -25,6 +26,7 @@
   institution: ""
   keywords: ["Deslizamentos", "Geotecnologia (SIG/geoprocessamento)", "Modelagem e análises geoespacial", "Redução de risco de desastres", "Suscetibilidade e exposição"]
   img: "/assets/img/team/pedro.jpg"
+  img_position: "center 30%"
   # email: "phmlima@id.uff.br"
   lattes: "http://lattes.cnpq.br/6849485246299952"
   orcid: "https://orcid.org/0000-0003-2429-3752"
@@ -36,6 +38,7 @@
   institution: ""
   keywords: ["Deslizamentos", "Modelagem e análises geoespacial", "Redução de risco de desastres", "Geotecnologia (SIG/geoprocessamento)", "Suscetibilidade e exposição"]
   img: "/assets/img/team/danubia.jpeg"
+  img_position: "center 32%"
   # email: "danubia.teixeira@ifal.edu.br"
   lattes: "http://lattes.cnpq.br/1322539920718246"
   orcid: "https://orcid.org/0009-0003-7592-0901"
@@ -57,6 +60,7 @@
   institution: ""
   keywords: ["Hidrologia", "Hidrogeomorfologia", "Geotecnologia (SIG/geoprocessamento)", "Conectividade hidrossedimentológica", "Deslizamentos"]
   img: "/assets/img/team/rodrigo.jpg"
+  img_position: "center 20%"
   # email: "rodrigoloureiro@id.uff.br"
   lattes: "https://lattes.cnpq.br/9898802239418041"
   orcid: "https://orcid.org/0009-0009-2683-8729"
@@ -67,6 +71,7 @@
   role: "Mestrando"
   institution: ""
   img: "/assets/img/team/Andre.jpg"
+  img_position: "center 35%"
   # email: "andre.anjos@unesp.br"
   lattes: "#"
   importance: 7
@@ -84,7 +89,8 @@
   role: "Mestrando"
   institution: ""
   keywords: ["Hidrologia", "Modelagem Hidrológica", "Mudanças Climáticas", "Redução de risco de desastres", "Sistema de alerta"]
-  img: "/assets/img/team/user.jpg"
+  img: "/assets/img/team/filipe.jpeg"
+  img_position: "center 42%"
   # email: "filipe.nogueira@id.uff.br"
   lattes: "http://lattes.cnpq.br/5685187140995653"
   importance: 9
@@ -93,7 +99,8 @@
   role: "Mestranda"
   institution: ""
   keywords: ["Hidrologia", "Conectividade Hidrossedimentologica", "Monitoramento Hidrossedimentológico"]
-  img: "/assets/img/team/user.jpg"
+  img: "/assets/img/team/silvana.jpeg"
+  img_position: "center 22%"
   # email: "silvanapaz@id.uff.br"
   lattes: "http://lattes.cnpq.br/2288468500908224"
   importance: 10
@@ -102,7 +109,8 @@
   role: "Mestrando"
   institution: ""
   keywords: ["Desastres", "Deslizamentos", "Redução de risco de desastres"]
-  img: "/assets/img/team/user.jpg"
+  img: "/assets/img/team/brian.jpeg"
+  img_position: "center 28%"
   # email: "braiansalvador@id.uff.br"
   lattes: "http://lattes.cnpq.br/7211454891724591"
   orcid: "https://orcid.org/0009-0006-0514-3694"
@@ -131,6 +139,7 @@
   institution: ""
   keywords: ["Hidrogeomorfologia", "Monitoramento Hidrossedimentológico", "Conectividade hidrossedimentológica"]
   img: "/assets/img/team/mariana.jpg"
+  img_position: "center 32%"
   # email: "marianagermano@id.uff.br"
   lattes: "https://lattes.cnpq.br/1520973427009627"
   orcid: "https://orcid.org/0000-0003-2429-3752"
@@ -142,6 +151,7 @@
   institution: ""
   keywords: ["Desastres"]
   img: "/assets/img/team/pedro_damas.jpeg"
+  img_position: "center 30%"
   # email: "pedrodamas@id.uff.br"
   lattes: "http://lattes.cnpq.br/8501249881313766"
   importance: 15
@@ -151,6 +161,7 @@
   institution: ""
   keywords: ["Hidrologia", "Modelagem Hidrológica"]
   img: "/assets/img/team/Milena.jpeg"
+  img_position: "center 30%"
   # email: "millenamoraes@id.uff.br"
   lattes: "http://lattes.cnpq.br/5475169285691299"
   importance: 16
@@ -158,7 +169,8 @@
 - name: "Vivienne Rios de Sá Hoyer"
   role: "Graduanda"
   institution: ""
-  img: "/assets/img/team/user.jpg"
+  img: "/assets/img/team/vivienne.png"
+  img_position: "center 33%"
   # email: "vihoyer@id.uff.br"
   lattes: "http://lattes.cnpq.br/4931514729126020"
   orcid: "https://orcid.org/0009-0001-0781-7967"
@@ -169,6 +181,7 @@
   institution: ""
   keywords: ["Hidrologia", "Geotecnologia (SIG/geoprocessamento)"]
   img: "/assets/img/team/victor.jpeg"
+  img_position: "center 32%"
   # email: "tavares_victor@id.uff.br"
   lattes: "https://lattes.cnpq.br/6280967381553692"
   importance: 18
