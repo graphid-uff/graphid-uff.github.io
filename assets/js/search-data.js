@@ -442,7 +442,7 @@ ninja.data = [{
               window.location.href = "/projects/PMRR/";
             },},{id: "projects-rioslide",
           title: 'RioSlide',
-          description: "Ambiente colaborativo de dados abertos para modelagem de deslizamentos",
+          description: "Sistema integrado para modelagem espaço-temporal de deslizamentos",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RioSlide/";
             },},{id: "projects-salad",
