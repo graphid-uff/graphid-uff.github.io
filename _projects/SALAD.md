@@ -4,6 +4,7 @@ title: SALAD
 description: Sistema de ALerta Antecipado para Deslizamentos
 description_en: Early Warning System for Landslides
 img: assets/img/Sirene.jpg
+coordinator: Gean Paulo Michel
 importance: 2
 category: Desastres
 giscus_comments: False

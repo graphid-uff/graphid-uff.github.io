@@ -4,6 +4,7 @@ title: PMRR - Niterói
 description: Plano Municipal de Redução de Riscos
 description_en: Municipal Risk Reduction Plan
 img: assets/img/pmrr_logo.jpeg
+coordinator: Franciele Zanandrea
 importance: 1
 category: Desastres
 related_publications: False

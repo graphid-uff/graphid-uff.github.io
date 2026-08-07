@@ -16,6 +16,9 @@
       <div class="card-body">
         <h2 class="card-title">{% include i18n.liquid pt=project.title en=project.title_en %}</h2>
         <p class="card-text">{% include i18n.liquid pt=project.description en=project.description_en %}</p>
+        {% if project.coordinator %}
+          <p class="card-text project-coordinator"><span class="lang-pt">Coordenação: {{ project.coordinator }}</span><span class="lang-en" hidden>Coordinator: {{ project.coordinator }}</span></p>
+        {% endif %}
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}
             <div class="github-icon">
