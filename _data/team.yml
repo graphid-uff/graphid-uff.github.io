@@ -69,7 +69,6 @@
   img: "/assets/img/team/Andre.jpg"
   # email: "andre.anjos@unesp.br"
   lattes: "#"
-  orcid: "#"
   importance: 7
 
 - name: "Clara Moreira Cardoso"
@@ -79,7 +78,6 @@
   img: "/assets/img/team/Clara.jpg"
   # email: "claramoreiracardoso@id.uff.br"
   lattes: "http://lattes.cnpq.br/6976969537174621"
-  orcid: "#"
   importance: 8
 
 - name: "Filipe Nogueira"
@@ -89,7 +87,6 @@
   img: "/assets/img/team/user.jpg"
   # email: "filipe.nogueira@id.uff.br"
   lattes: "http://lattes.cnpq.br/5685187140995653"
-  orcid: "#"
   importance: 9
 
 - name: "Silvana Cristina Paz do Couto"
@@ -99,7 +96,6 @@
   img: "/assets/img/team/user.jpg"
   # email: "silvanapaz@id.uff.br"
   lattes: "http://lattes.cnpq.br/2288468500908224"
-  orcid: "#"
   importance: 10
 
 - name: "Braian Salvador"
@@ -119,7 +115,6 @@
   img: "/assets/img/team/user.jpg"
   # email: "ianbotelhomotta@id.uff.br"
   lattes: "http://lattes.cnpq.br/0060717506424750"
-  orcid: "#"
   importance: 12
 
 - name: "Nestor Antônio Bresolin Júnior"
@@ -129,7 +124,6 @@
   img: "/assets/img/team/user.jpg"
   # email: "nbresolin@gmail.com"
   lattes: "http://lattes.cnpq.br/4662053845978586"
-  orcid: "#"
   importance: 13
 
 - name: "Mariana Carvalheda"
@@ -150,7 +144,6 @@
   img: "/assets/img/team/pedro_damas.jpeg"
   # email: "pedrodamas@id.uff.br"
   lattes: "http://lattes.cnpq.br/8501249881313766"
-  orcid: "#"
   importance: 15
 
 - name: "Millena Junger"
@@ -160,7 +153,6 @@
   img: "/assets/img/team/Milena.jpeg"
   # email: "millenamoraes@id.uff.br"
   lattes: "http://lattes.cnpq.br/5475169285691299"
-  orcid: "#"
   importance: 16
 
 - name: "Vivienne Rios de Sá Hoyer"
@@ -176,8 +168,7 @@
   role: "Graduando"
   institution: ""
   keywords: ["Hidrologia", "Geotecnologia (SIG/geoprocessamento)"]
-  img: "/assets/img/team/user.jpg"
+  img: "/assets/img/team/victor.jpeg"
   # email: "tavares_victor@id.uff.br"
   lattes: "https://lattes.cnpq.br/6280967381553692"
-  orcid: "#"
   importance: 18

@@ -2,16 +2,16 @@
 layout: page
 title: "Uso de caracterização morfométrica e geomorfológica na análise de mapeamentos de cicatrizes de escorregamentos"
 title_en: "Uso de caracterização morfométrica e geomorfológica na análise de mapeamentos de cicatrizes de escorregamentos"
-description: "Schwarz et al. — <em>Revista Brasileira de Geomorfologia</em>, 2023."
-description_en: "Schwarz et al. — <em>Revista Brasileira de Geomorfologia</em>, 2023."
-img: assets/img/publication_placeholder.svg
+description: "Heron Schwarz, Gean Paulo Michel, Franciele Zanandrea, Leonardo Rodolfo Paul, Clarissa Guerra Salvador — <em>Revista Brasileira de Geomorfologia</em>, 2023."
+description_en: "Heron Schwarz, Gean Paulo Michel, Franciele Zanandrea, Leonardo Rodolfo Paul, Clarissa Guerra Salvador — <em>Revista Brasileira de Geomorfologia</em>, 2023."
+img: assets/img/publicacoes/Schwarz_2023.png
 year: 2023
 importance: 7
 related_publications: true
 published: true
 ---
 
-**Autoria:** Schwarz et al.
+**Autoria:** Heron Schwarz, Gean Paulo Michel, Franciele Zanandrea, Leonardo Rodolfo Paul & Clarissa Guerra Salvador
 
 **Publicado em:** Revista Brasileira de Geomorfologia, 2023
 

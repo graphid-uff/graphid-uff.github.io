@@ -2,8 +2,8 @@
 layout: page
 title: "Índice de erosividade de chuvas para o estado do Rio de Janeiro – Brasil"
 title_en: "Índice de erosividade de chuvas para o estado do Rio de Janeiro – Brasil"
-description: "Back et al. — <em>GEOgraphia</em>, 2025."
-description_en: "Back et al. — <em>GEOgraphia</em>, 2025."
+description: "Álvaro José Back, Gabriel da Silva Souza, Sérgio Luciano Galatto, Franciele Zanandrea — <em>GEOgraphia</em>, 2025."
+description_en: "Álvaro José Back, Gabriel da Silva Souza, Sérgio Luciano Galatto, Franciele Zanandrea — <em>GEOgraphia</em>, 2025."
 img: assets/img/publication_placeholder.svg
 year: 2025
 importance: 5
@@ -11,7 +11,7 @@ related_publications: true
 published: true
 ---
 
-**Autoria:** Back et al.
+**Autoria:** Álvaro José Back, Gabriel da Silva Souza, Sérgio Luciano Galatto & Franciele Zanandrea
 
 **Publicado em:** GEOgraphia, 2025
 

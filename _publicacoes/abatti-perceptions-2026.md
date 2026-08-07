@@ -2,16 +2,16 @@
 layout: page
 title: "Perceptions of Large Wood in River Corridors: Visual Cues, Risk, and Management Expectations in Brazil"
 title_en: "Perceptions of Large Wood in River Corridors: Visual Cues, Risk, and Management Expectations in Brazil"
-description: "Abatti et al. — <em>Environmental Management</em>, 2026."
-description_en: "Abatti et al. — <em>Environmental Management</em>, 2026."
-img: assets/img/publication_placeholder.svg
+description: "Bruno Henrique Abatti, Marina Refatti Fagundes, Gean Paulo Michel, Ronald E. Poeppl, Franciele M. Vanelli, Franciele Zanandrea, Karla Campagnolo, Leonardo Rodolfo Paul, Masato Kobiyama — <em>Environmental Management</em>, 2026."
+description_en: "Bruno Henrique Abatti, Marina Refatti Fagundes, Gean Paulo Michel, Ronald E. Poeppl, Franciele M. Vanelli, Franciele Zanandrea, Karla Campagnolo, Leonardo Rodolfo Paul, Masato Kobiyama — <em>Environmental Management</em>, 2026."
+img: assets/img/publicacoes/Abbatti_2026.png
 year: 2026
 importance: 3
 related_publications: true
 published: true
 ---
 
-**Autoria:** Abatti et al.
+**Autoria:** Bruno Henrique Abatti, Marina Refatti Fagundes, Gean Paulo Michel, Ronald E. Poeppl, Franciele M. Vanelli, Franciele Zanandrea, Karla Campagnolo, Leonardo Rodolfo Paul & Masato Kobiyama
 
 **Publicado em:** Environmental Management, 2026
 
