@@ -67,13 +67,15 @@
   researchgate: "https://www.researchgate.net/profile/Rodrigo-Loureiro-5"
   importance: 6
 
-- name: "André Pimentel"
+- name: "Andre de Freitas Pimentel dos Anjos"
   role: "Mestrando"
   institution: ""
+  keywords: ["Deslizamentos", "Sistema de Alerta", "Previsão de Deslizamentos", "Geotecnologia (SIG/geoprocessamento)", "Redução de risco de desastres"]
   img: "/assets/img/team/Andre.jpg"
   img_position: "center 35%"
   # email: "andre.anjos@unesp.br"
-  lattes: "#"
+  lattes: "http://lattes.cnpq.br/7795895409074741"
+  orcid: "https://orcid.org/0009-0001-1983-7797"
   importance: 7
 
 - name: "Clara Moreira Cardoso"
