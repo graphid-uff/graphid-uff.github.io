@@ -15,6 +15,8 @@ published: true
 
 **Publicado em:** Journal of Mountain Science, 2026
 
+O artigo discute a relação entre conectividade sedimentar e movimentos de massa, argumentando que essa relação permanece subestimada na literatura geomorfológica. Os autores propõem uma reflexão sobre como a integração entre estudos de conectividade e de movimentos de massa pode contribuir para o avanço da compreensão dos processos de instabilização de encostas.
+
 <a href="https://doi.org/10.1007/s11629-026-0773-7" target="_blank">**DOI: 10.1007/s11629-026-0773-7**</a>
 
 {% cite lopes2026connectivity %}
