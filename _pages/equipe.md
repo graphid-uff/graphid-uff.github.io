@@ -8,6 +8,13 @@ description_en: GRAPHID members
 nav: true
 nav_order: 5
 horizontal: false
+_styles: >
+  .team-email {
+    text-align: center;
+    font-size: 0.85rem;
+    color: var(--global-text-color-light);
+    margin: 0.5rem 0 0;
+  }
 ---
 
   {% assign team = site.data.team | sort: "importance" %}
@@ -18,6 +25,9 @@ horizontal: false
         <div class="card h-100">
           {% if member.img %}
           <img src="{{ member.img | relative_url }}" class="card-img-top team-photo" alt="{{ member.name }}" style="object-position: {{ member.img_position | default: 'center' }};">
+          {% endif %}
+          {% if member.email %}
+            <p class="team-email">{{ member.email }}</p>
           {% endif %}
 
           <div class="card-body">
@@ -38,9 +48,6 @@ horizontal: false
           </div>
 
           <div class="card-footer">
-            {% if member.email %}
-              <a href="mailto:{{ member.email }}" class="card-link">E-mail</a>
-            {% endif %}
             {% if member.lattes %}
               <a href="{{ member.lattes }}" class="card-link" target="_blank">Lattes</a>
             {% endif %}
