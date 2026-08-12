@@ -485,11 +485,11 @@ ninja.data = [{
           description: "Heron Schwarz, Gean Paulo Michel, Franciele Zanandrea, Leonardo Rodolfo Paul, Clarissa Guerra Salvador — Revista Brasileira de Geomorfologia, 2023.",
           section: "Publicacoes",handler: () => {
               window.location.href = "/publicacoes/schwarz-morfometrica-2023/";
-            },},{id: "publicacoes-can-one-dimensional-infiltration-models-reproduce-soil-moisture-variations-in-landslide-prone-hillslopes-evidences-from-petrópolis-brazil",
-          title: 'Can one-dimensional infiltration models reproduce soil moisture variations in landslide-prone hillslopes? Evidences from...',
-          description: "Silva et al. — Soil Science Society of America Journal, 2026.",
+            },},{id: "publicacoes-can-one-dimensional-infiltration-models-reproduce-soil-moisture-variations-in-landslide-prone-hillslopes-evidence-from-petrópolis-brazil",
+          title: 'Can one-dimensional infiltration models reproduce soil moisture variations in landslide-prone hillslopes? Evidence from...',
+          description: "Danúbia Teixeira, Gean Paulo Michel, Nelson Ferreira Fernandes, Franciele Zanandrea, Artur Nonato Vieira Cereto e Otto Corrêa Rotunno Filho — Soil Science Society of America Journal, 2026.",
           section: "Publicacoes",handler: () => {
-              window.location.href = "/publicacoes/silva-petropolis-2026/";
+              window.location.href = "/publicacoes/teixeira-petropolis-2026/";
             },},{id: "publicacoes-conectividade-dos-sedimentos-conceitos-princípios-e-aplicações",
           title: 'Conectividade dos sedimentos: conceitos, princípios e aplicações',
           description: "Franciele Zanandrea, Leonardo Rodolfo Paul, Gean Paulo Michel, Masato Kobiyama, Aline da Silva Zanini, Bruno Henrique Abatti — Revista Brasileira de Geomorfologia, 2020.",
