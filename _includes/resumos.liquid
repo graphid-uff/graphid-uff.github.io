@@ -1,0 +1,20 @@
+<a href="{{ resumo.url | relative_url }}" class="publication-card-link">
+  <div class="card hoverable publication-card">
+    {% if resumo.img %}
+      <div class="publication-card-img">
+        {%
+          include figure.liquid
+          loading="eager"
+          path=resumo.img
+          sizes = "250px"
+          alt="resumo thumbnail"
+          class="img-fluid"
+        %}
+      </div>
+    {% endif %}
+    <div class="card-body">
+      <h2 class="card-title">{% include i18n.liquid pt=resumo.title en=resumo.title_en %}</h2>
+      <p class="card-text">{% include i18n.liquid pt=resumo.description en=resumo.description_en %}</p>
+    </div>
+  </div>
+</a>

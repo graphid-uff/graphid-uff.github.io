@@ -155,6 +155,8 @@ collections:
     output: true
   publicacoes:
     output: true
+  resumos:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
