@@ -2,8 +2,8 @@
 layout: page
 title: "Connectivity and mass movements: An underestimated relationship?"
 title_en: "Connectivity and mass movements: An underestimated relationship?"
-description: "Lopes et al. — <em>Journal of Mountain Science</em>, 2026."
-description_en: "Lopes et al. — <em>Journal of Mountain Science</em>, 2026."
+description: "Carolina Bastos Marques Lopes, Franciele Zanandrea, Nelson Ferreira Fernandes, J. O. P. Souza, E. Marchioro, F. Dourado — <em>Journal of Mountain Science</em>, 2026."
+description_en: "Carolina Bastos Marques Lopes, Franciele Zanandrea, Nelson Ferreira Fernandes, J. O. P. Souza, E. Marchioro, F. Dourado — <em>Journal of Mountain Science</em>, 2026."
 img: assets/img/publication_placeholder.svg
 year: 2026
 importance: 4
@@ -11,7 +11,7 @@ related_publications: true
 published: true
 ---
 
-**Autoria:** Lopes et al.
+**Autoria:** Carolina Bastos Marques Lopes, Franciele Zanandrea, Nelson Ferreira Fernandes, J. O. P. Souza, E. Marchioro & F. Dourado
 
 **Publicado em:** Journal of Mountain Science, 2026
 
