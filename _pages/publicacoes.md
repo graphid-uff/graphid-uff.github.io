@@ -12,9 +12,11 @@ children:
   - title: Artigos
     title_en: Articles
     permalink: /publicacoes/#artigos-pane
+    count_from: publicacoes
   - title: Resumos
     title_en: Abstracts
     permalink: /publicacoes/#resumos-pane
+    count_from: resumos
 horizontal: false
 _styles: >
   .publicacoes-tabs {

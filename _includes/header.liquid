@@ -95,6 +95,9 @@
                           href="{% if child.permalink contains '://' %}{{ child.permalink }}{% else %}{{ child.permalink | relative_url }}{% endif %}"
                         >
                           {% include i18n.liquid pt=child.title en=child.title_en %}
+                          {% if child.count_from %}
+                            <span class="dropdown-item-count">({{ site[child.count_from] | size }})</span>
+                          {% endif %}
                         </a>
                       {% endif %}
                     {% endfor %}
