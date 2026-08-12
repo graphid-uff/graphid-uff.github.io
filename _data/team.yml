@@ -46,7 +46,7 @@
   importance: 4
 
 - name: "Msc. Artur Nonato Vieira Cereto"
-  role: "Mestrando"
+  role: "Pesquisador"
   institution: ""
   keywords: ["Desastres", "Deslizamentos", "Redução de risco de desastres", "Sistema de Alerta", "Hidrologia"]
   img: "/assets/img/team/artur.jpg"
@@ -122,7 +122,8 @@
 - name: "Ian Botelho Motta"
   role: "Mestrando"
   institution: ""
-  img: "/assets/img/team/user.jpg"
+  img: "/assets/img/team/Ian.jpeg"
+  img_position: "center 20%"
   # email: "ianbotelhomotta@id.uff.br"
   lattes: "http://lattes.cnpq.br/0060717506424750"
   importance: 12
@@ -131,7 +132,7 @@
   role: "Mestrando"
   institution: ""
   keywords: ["Hidrologia", "Desastres", "Sistemas de Alerta", "Redução de risco de desastres"]
-  img: "/assets/img/team/user.jpg"
+  img: "/assets/img/team/nestor.jpeg"
   # email: "nbresolin@gmail.com"
   lattes: "http://lattes.cnpq.br/4662053845978586"
   importance: 13

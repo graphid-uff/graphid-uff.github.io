@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Os desafios da gestão de risco a movimentos de massa em periferias brasileiras: proposição de método para hierarquização de áreas a serem analisadas no Plano Municipal de Redução de Risco de Niterói, RJ"
-title_en: "The challenges of landslide risk management in Brazilian peripheries: proposing a method for prioritizing areas for analysis in Niterói's Municipal Risk Reduction Plan"
+title_en: "Challenges in landslides risk management in Brazilian slums: a method proposition to prioritizing areas to be mapped in the Municipal Risk Reduction Plan of Niterói, RJ"
 description: "Franciele Zanandrea, Gean Paulo Michel, Aimée Guida, Ivanovich Lache Salcedo, Danúbia Teixeira Silva, Camila Athanázio de Azevedo, Lucas da Silva Santos, Isadora Tschiedel Thys, Vanessa Caldas Cardoso — <em>Revista Brasileira de Recursos Hídricos (RBRH)</em>, 2025."
 description_en: "Franciele Zanandrea, Gean Paulo Michel, Aimée Guida, Ivanovich Lache Salcedo, Danúbia Teixeira Silva, Camila Athanázio de Azevedo, Lucas da Silva Santos, Isadora Tschiedel Thys, Vanessa Caldas Cardoso — <em>Brazilian Journal of Water Resources (RBRH)</em>, 2025."
 img: assets/img/publicacoes/RBRH_Niteroi_2025.png
@@ -21,7 +21,7 @@ _styles: >
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publicacoes/RBRH_Niteroi_2025.png" title="Índice de risco por hexágono, Niterói/RJ" class="img-fluid rounded z-depth-1" max-width="100%" caption="Índice de risco por hexágono, em detalhe. Refletindo o índice de perigo e o índice de vulnerabilidade, a porção norte do município apresenta o maior número de hexágonos com o índice de risco mais elevado." %}
+        {% include figure.liquid loading="eager" path="assets/img/publicacoes/RBRH_Niteroi_2025.png" title="Artigo publicado na Revista Brasileira de Recursos Hídricos" class="img-fluid rounded z-depth-1" max-width="100%" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
         <p class="post-description">Franciele Zanandrea, Gean Paulo Michel, Aimée Guida, Ivanovich Lache Salcedo, Danúbia Teixeira Silva, Camila Athanázio de Azevedo, Lucas da Silva Santos, Isadora Tschiedel Thys, Vanessa Caldas Cardoso — <em>Revista Brasileira de Recursos Hídricos (RBRH)</em>, 2025.</p>
