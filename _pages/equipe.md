@@ -10,7 +10,7 @@ nav_order: 5
 horizontal: false
 _styles: >
   .team-email {
-    text-align: center;
+    text-align: left;
     font-size: 0.85rem;
     color: var(--global-text-color-light);
     margin: 0.5rem 0 0;
@@ -25,9 +25,6 @@ _styles: >
         <div class="card h-100">
           {% if member.img %}
           <img src="{{ member.img | relative_url }}" class="card-img-top team-photo" alt="{{ member.name }}" style="object-position: {{ member.img_position | default: 'center' }};">
-          {% endif %}
-          {% if member.email %}
-            <p class="team-email">{{ member.email }}</p>
           {% endif %}
 
           <div class="card-body">
@@ -44,6 +41,9 @@ _styles: >
                   <span class="badge badge-pill bg-secondary">{{ keyword }}</span>
                 {% endfor %}
               </p>
+            {% endif %}
+            {% if member.email %}
+              <p class="team-email"><strong>Email(s):</strong> {{ member.email }}</p>
             {% endif %}
           </div>
 
