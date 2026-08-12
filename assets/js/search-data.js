@@ -23,14 +23,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/linhas-pesquisa/";
           },
-        },{id: "nav-publicações-recentes",
-          title: "Publicações Recentes",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publicacoes/";
-          },
-        },{id: "nav-livros",
+        },{id: "dropdown-artigos",
+              title: "Artigos",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/publicacoes/#artigos-pane";
+              },
+            },{id: "dropdown-resumos",
+              title: "Resumos",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/publicacoes/#resumos-pane";
+              },
+            },{id: "nav-livros",
           title: "Livros",
           description: "Livros publicados por membros do GRAPHID.",
           section: "Navigation",
@@ -505,6 +512,11 @@ ninja.data = [{
           description: "Franciele Zanandrea, Gean Paulo Michel, Masato Kobiyama, Guilherme Censi, Bruno Henrique Abatti — Catena, 2021.",
           section: "Publicacoes",handler: () => {
               window.location.href = "/publicacoes/zanandrea-spatiotemporal-2021/";
+            },},{id: "resumos-connectivity-based-assessment-of-trajectories-and-channel-linkage-of-rainfall-triggered-mass-movements",
+          title: 'Connectivity-based assessment of trajectories and channel linkage of rainfall-triggered mass movements',
+          description: "Franciele Zanandrea, Gean Paulo Michel, Carolina Bastos Marques Lopes, Artur Nonato Vieira Cereto, Rodrigo Coutinho Loureiro Mansur, Danúbia Teixeira Silva — EGU General Assembly 2026, Viena, 2026.",
+          section: "Resumos",handler: () => {
+              window.location.href = "/resumos/zanandrea-connectivity-egu-2026/";
             },},{
         id: 'social-email',
         title: 'email',
