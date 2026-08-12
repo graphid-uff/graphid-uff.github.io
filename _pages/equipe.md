@@ -9,10 +9,15 @@ nav: true
 nav_order: 5
 horizontal: false
 _styles: >
+  .card-body .card-title,
+  .card-body .card-text,
+  .team-email {
+    font-size: 0.85rem;
+    font-weight: normal;
+    color: var(--global-text-color-light);
+  }
   .team-email {
     text-align: left;
-    font-size: 0.85rem;
-    color: var(--global-text-color-light);
     margin: 0.5rem 0 0;
   }
 ---
@@ -30,7 +35,7 @@ _styles: >
           <div class="card-body">
             <h5 class="card-title">{{ member.name }}</h5>
             {% if member.role %}
-              <p class="card-text"><strong>{{ member.role }}</strong></p>
+              <p class="card-text">{{ member.role }}</p>
             {% endif %}
             {% if member.institution %}
               <p class="card-text">{{ member.institution }}</p>
@@ -43,7 +48,7 @@ _styles: >
               </p>
             {% endif %}
             {% if member.email %}
-              <p class="team-email"><strong>Email(s):</strong> {{ member.email }}</p>
+              <p class="team-email">Email(s): {{ member.email }}</p>
             {% endif %}
           </div>
 
