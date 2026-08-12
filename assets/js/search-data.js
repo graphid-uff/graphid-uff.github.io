@@ -479,7 +479,7 @@ ninja.data = [{
               window.location.href = "/publicacoes/back-erosividade-2025/";
             },},{id: "publicacoes-connectivity-and-mass-movements-an-underestimated-relationship",
           title: 'Connectivity and mass movements: An underestimated relationship?',
-          description: "Lopes et al. — Journal of Mountain Science, 2026.",
+          description: "Carolina Bastos Marques Lopes, Franciele Zanandrea, Nelson Ferreira Fernandes, J. O. P. Souza, E. Marchioro, F. Dourado — Journal of Mountain Science, 2026.",
           section: "Publicacoes",handler: () => {
               window.location.href = "/publicacoes/lopes-connectivity-2026/";
             },},{id: "publicacoes-os-desafios-da-gestão-de-risco-a-movimentos-de-massa-em-periferias-brasileiras-proposição-de-método-para-hierarquização-de-áreas-a-serem-analisadas-no-plano-municipal-de-redução-de-risco-de-niterói-rj",
